@@ -1,1 +1,1 @@
-echo "hello world" >>hello_world.out
+echo "hello world" >>/iexec/hello_world.out
